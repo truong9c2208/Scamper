@@ -15,7 +15,7 @@ export default function Dashboard() {
     <div className="container mx-auto p-4 max-w-6xl space-y-6">
       <header className="flex justify-between items-center py-4 border-b border-border">
         <div>
-          <h1 className="text-2xl font-bold tracking-tight">Samper</h1>
+          <h1 className="text-2xl font-bold tracking-tight">Scamper</h1>
           <p className="text-muted-foreground text-sm">Boost your productivity and stay on track.</p>
         </div>
         <Button variant="ghost" size="icon" onClick={toggleDarkMode}>
